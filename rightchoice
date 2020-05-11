@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>keep it up, keep moving</title>
+    
+    <link rel="stylesheet" type="text/css" href="style.css">
+    
+  </head>
+  <body>
+    <h1 id ="top">
+      You have chosen prudently. Your story continues.
+    </h1>
+  </body>
+</html>
