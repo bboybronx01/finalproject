@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>you flew too close to the sun</title>
+    
+    <link rel="stylesheet" type="text/css" href="style.css">
+    
+  </head>
+  <body>
+    <h1 id ="top">
+      Your attempt was good, but go back somewhere else.
+    </h1>
+  </body>
+</html>
