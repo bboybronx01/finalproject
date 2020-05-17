@@ -46,28 +46,4 @@ body{
   85%{
     letter-spacing: 8px;
     margin-bottom: -40px;
-   
   }
-  h2 {
-  font-family: monospace;
-}
-
-.attribution{
-  font-size:30%;
-}
-
-.conversation {
-  color: #58017f;
-  text-decoration: underline;
-}
-
-a{
-  text-decoration: none;
-}
-
-a:hover{
-  font-size: 150%;
-}
-a:visited{
-  color: #888888;
-}
